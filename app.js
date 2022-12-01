@@ -34,7 +34,7 @@ app.get("/", (req, res) => {
 
 require("./app/routes/post.routes")(app);
 
-const PORT = 8000;
+const PORT = 3002;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
