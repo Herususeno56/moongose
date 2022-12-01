@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6387116047d60a6718fe29a9"
+  },
+  "name": "HERRRRU",
+  "price": 10000000,
+  "stock": 90,
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6388543295d5e22aa9cc452e"
+  },
+  "name": "mmmmmmmmmmmmmmmmmm",
+  "price": 1000,
+  "stock": 90,
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63886a680eaa4ca1c2289c29"
+  },
+  "name": "mmmm",
+  "price": 1000,
+  "stock": 90,
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638874d733748b7bebe414ea"
+  },
+  "name": "HERU SUSENO",
+  "price": {
+    "$numberLong": "9999999999"
+  },
+  "stock": 1,
+  "status": true,
+  "__v": 0
+}]
